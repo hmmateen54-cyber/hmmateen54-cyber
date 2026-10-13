@@ -1,6 +1,8 @@
 <div align="center">
   <!-- Profile Picture / Avatar -->
-  <img src="https://github.com/hmmateen54-cyber.png" width="140" height="140" style="border-radius: 50%;" alt="Muhammad Mateen Avatar" />
+  <a href="https://github.com/hmmateen54-cyber">
+    <img src="https://github.com/hmmateen54-cyber.png" width="180" height="180" align="center" alt="Muhammad Mateen Avatar" />
+  </a>
 
   <!-- Typing Banner -->
   <br />
