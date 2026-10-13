@@ -1,5 +1,9 @@
 <div align="center">
+  <!-- Profile Picture / Avatar -->
+  <img src="https://github.com/hmmateen54-cyber.png" width="140" height="140" style="border-radius: 50%;" alt="Muhammad Mateen Avatar" />
+
   <!-- Typing Banner -->
+  <br />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Muhammad+Mateen;Full+Stack+Web+%26+Mobile+Dev;Laravel+%26+React+Specialist;Welcome+to+my+Profile" alt="Typing SVG" />
 
   <p>🚀 <strong>Building scalable, high-performance web & mobile applications with modern code.</strong></p>
